@@ -9,7 +9,7 @@ This project is to design and build a Python program that generates random, secu
 - Allow users to specify the length and number of passwords to generate.
 
 ## Requirements
-- #### Python 3.x
+- ### Python 3.x
 - Create a Python script that generates random passwords.
 - Ensure the passwords are a mix of uppercase and lowercase letters, numbers, and special characters.
 - Allow users to specify the length and number of passwords to generate.
